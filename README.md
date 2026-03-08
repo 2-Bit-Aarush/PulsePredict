@@ -132,10 +132,9 @@ Future versions of PulsePredict will include:
 ```
 PulsePredict
 │
-├── pulsepredict_app.py      # Streamlit monitoring dashboard
-├── requirements.txt         # Python dependencies
-├── demo.mp4                 # Dashboard demonstration
-├── architecture.png         # System architecture diagram
+├── pulsepredict.py          # Streamlit monitoring dashboard
+├── Requirements.txt         # Python dependencies
+├── Demo.mp4                 # Dashboard demonstration
 │
 ├── presentation
 │   └── PulsePredict_Presentation.pdf

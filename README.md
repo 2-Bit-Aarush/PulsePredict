@@ -10,7 +10,11 @@ The goal of the project is to shift industrial systems from **reactive maintenan
 
 Below is a short demonstration of the prototype dashboard:
 
-https://github.com/2-Bit-Aarush/PulsePredict/Demo.mp4
+
+https://github.com/user-attachments/assets/12a5edc1-0ba0-4319-ac15-576923b90c55
+
+
+
 
 The dashboard shows:
 - Real-time monitoring of machine metrics

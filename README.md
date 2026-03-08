@@ -115,6 +115,9 @@ Future versions of PulsePredict will include:
 - LLM-powered maintenance assistant
 - Historical maintenance log analysis
 
+
+📍 See the future roadmap here: [Future Development Plan](docs/future_hardware_plan.md)
+
 ---
 
 ## Tech Stack
